@@ -1,0 +1,6 @@
+.nav_nd_home_cover_img {
+    background-image: url('../images/Stav_Website_Home.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
